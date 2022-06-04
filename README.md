@@ -31,17 +31,17 @@ incubator project on [Oct 24, 2019](https://github.com/cncf/toc/pull/297).
 | CloudEvents                   | [v1.0.2](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/spec.md)   | [WIP](cloudevents/spec.md) |
 |                               |
 | **Optional Specifications:**  |
-| AMQP Protocol Binding         | [v1.0.2](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/bindings/amqp-protocol-binding.md)  | [WIP](cloudevents/bindings/amqp-protocol-binding.md)       |
-| AVRO Event Format             | [v1.0.2](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/formats/avro-format.md)             | [WIP](cloudevents/formats/avro-format.md)                  |
-| HTTP Protocol Binding         | [v1.0.2](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/bindings/http-protocol-binding.md)  | [WIP](cloudevents/bindings/http-protocol-binding.md)       |
-| JSON Event Format             | [v1.0.2](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/formats/json-format.md)             | [WIP](cloudevents/formats/json-format.md)                  |
-| Kafka Protocol Binding        | [v1.0.2](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/bindings/kafka-protocol-binding.md) | [WIP](cloudevents/bindings/kafka-protocol-binding.md)      |
-| MQTT Protocol Binding         | [v1.0.2](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/bindings/mqtt-protocol-binding.md)  | [WIP](cloudevents/bindings/mqtt-protocol-binding.md)       |
-| NATS Protocol Binding         | [v1.0.2](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/bindings/nats-protocol-binding.md)  | [WIP](cloudevents/bindings/nats-protocol-binding.md)       |
-| WebSockets Protocol Binding   | -                                                                                                        | [WIP](cloudevents/bindings/websockets-protocol-binding.md) |
-| Protobuf Event Format         | [v1.0.2](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/formats/protobuf-format.md)         | [WIP](cloudevents/formats/protobuf-format.md)              |
-| XML Event Format              | -                                                                                                        | [WIP](cloudevents/working-drafts/xml-format.md)            |
-| Web hook                      | [v1.0.2](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/http-webhook.md)                    | [WIP](cloudevents/http-webhook.md)                         |
+| AMQP Protocol Binding         | [v1.0.2](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/bindings/amqp-protocol-binding.md)       | [WIP](cloudevents/bindings/amqp-protocol-binding.md)       |
+| AVRO Event Format             | [v1.0.2](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/formats/avro-format.md)                  | [WIP](cloudevents/formats/avro-format.md)                  |
+| HTTP Protocol Binding         | [v1.0.2](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/bindings/http-protocol-binding.md)       | [WIP](cloudevents/bindings/http-protocol-binding.md)       |
+| JSON Event Format             | [v1.0.2](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/formats/json-format.md)                  | [WIP](cloudevents/formats/json-format.md)                  |
+| Kafka Protocol Binding        | [v1.0.2](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/bindings/kafka-protocol-binding.md)      | [WIP](cloudevents/bindings/kafka-protocol-binding.md)      |
+| MQTT Protocol Binding         | [v1.0.2](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/bindings/mqtt-protocol-binding.md)       | [WIP](cloudevents/bindings/mqtt-protocol-binding.md)       |
+| NATS Protocol Binding         | [v1.0.2](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/bindings/nats-protocol-binding.md)       | [WIP](cloudevents/bindings/nats-protocol-binding.md)       |
+| WebSockets Protocol Binding   | [v1.0.2](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/bindings/websockets-protocol-binding.md) | [WIP](cloudevents/bindings/websockets-protocol-binding.md) |
+| Protobuf Event Format         | [v1.0.2](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/formats/protobuf-format.md)              | [WIP](cloudevents/formats/protobuf-format.md)              |
+| XML Event Format              | -                                                                                                             | [WIP](cloudevents/working-drafts/xml-format.md)            |
+| Web hook                      | [v1.0.2](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/http-webhook.md)                         | [WIP](cloudevents/http-webhook.md)                         |
 |                               |
 | **Additional Documentation:** |
 | CloudEvents Primer                                             | [v1.0.2](https://github.com/cloudevents/spec/blob/v1.0.2/cloudevents/primer.md) | [WIP](cloudevents/primer.md)                          |
